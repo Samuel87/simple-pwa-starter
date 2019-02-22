@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    margin: 0;
+}
+
+.add-button {
+    margin-top: 4px;
+    margin-left: 4px;
+}
